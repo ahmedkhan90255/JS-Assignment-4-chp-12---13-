@@ -1,28 +1,28 @@
 body {
-    background-color: skyblue;
+  background-color: skyblue;
 }
 
 h1 {
-    text-align: center;
-    background-color: blueviolet;
+  text-align: center;
+  background-color: blueviolet;
 }
 
 div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 a {
-    font-family: sans-serif;
-    font-size: 35px;
-    line-height: 60px;
-    text-decoration: underline black;
-    color: firebrick
+  font-family: sans-serif;
+  font-size: 35px;
+  line-height: 60px;
+  text-decoration: underline black;
+  color: firebrick;
 }
 a:hover {
-    background-color: darkgoldenrod;
+  background-color: darkgoldenrod;
 }
 a:focus {
-    background-color: darkgrey;
+  background-color: darkgrey;
 }
